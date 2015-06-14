@@ -12,7 +12,7 @@ You can install the extension from [Google Web Store](https://chrome.google.com/
 
 ## Contributors
 
-All cred goes to Lex that just wanted to see all Sex and the City episodes in a row.
+Dedicated to Lex that just wanted to see all Sex and the City episodes in a row.
 
 ## License
 
