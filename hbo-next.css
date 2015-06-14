@@ -1,0 +1,19 @@
+#hbo-next-btn {
+    position: absolute;
+    right: 0px;
+    padding-top: 18px;
+    padding-right: 15px;
+    text-transform: uppercase;
+    color: #a1a1a1;
+    font-size: 13px;
+    font-family: "Helvetica Neue","Proxima Nova",Helvetica,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin: 0;
+    cursor: pointer;
+
+}
+
+#hbo-next-btn:hover {
+    color: #3783ab;
+}
