@@ -71,27 +71,19 @@
             console.log("Modal opened");
             $("#main-modal #hbo-next-btn").remove();
 
-            $("#main-modal .content .player-container").prepend($next_btn).mousemove(function () {
-                $next_btn.show("slow");
-                if (timeout) {
-                    clearTimeout(timeout);
-                }
-                timeout = setTimeout(function () {
-                    $next_btn.hide("slow")
-                }, 3000);
-            });
+            $("#main-modal .content .player-container").prepend($next_btn).mousemove(btnFade);
         });
 
     });
 
     // Button fade in and out function
     var btnFade = function () {
-        $next_btn.show("slow");
+        $("#hbo-next-btn").show("slow");
         if (timeout) {
             clearTimeout(timeout);
         }
         timeout = setTimeout(function () {
-            $next_btn.hide("slow")
+            $("#hbo-next-btn").hide("slow")
         }, 3000);
     }
 })();
