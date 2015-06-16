@@ -1,0 +1,4 @@
+module.exports = {
+    "name": "nextbtn-hbo-nordic",
+    "version": "0.0.2"
+}

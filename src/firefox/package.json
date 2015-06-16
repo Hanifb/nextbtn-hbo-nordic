@@ -1,0 +1,10 @@
+{
+  "name": "hbo-next-firefox",
+  "title": "Next Episode button for HBO Nordic",
+  "id": "jid1-Tv3vDBCmvwvbkw",
+  "description": "Adds an Next Episode button on the HBO Nordic web player",
+  "author": "Hanif Bali",
+  "license": "WTFPL",
+  "version": "0.0.2",
+  "icon": "icon-128.png"
+}
