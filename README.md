@@ -8,7 +8,7 @@ The current web player is 3 clicks and one scroll just to change to the next epi
 
 ## Installation
 
-You can install the extension from [Google Web Store](https://chrome.google.com/webstore/detail/hbo-nordic-next-button/djaicpakelkcadoljpgfjhkajdfceadp)
+You can install the extension from [Google Web Store](https://chrome.google.com/webstore/detail/hbo-nordic-next-button/djaicpakelkcadoljpgfjhkajdfceadp) and from [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/next-episode-button-for-hbo-no/).
 
 ## Contributors
 
